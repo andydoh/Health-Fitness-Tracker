@@ -1,6 +1,7 @@
 # Health-Fitness-Tracker
 
 Health and Fitness Tracker
+
 Introduction
 The Health and Fitness Tracker is a simple Java console application designed to help users monitor their daily food intake and exercise activities. This application allows users to log various foods and exercises, tracking calorie consumption and expenditure to support health and fitness goals.
 Features
